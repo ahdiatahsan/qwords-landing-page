@@ -207,7 +207,7 @@
         </div>
         <div class="mt-8 border-t border-white/10 pt-8 md:flex md:items-center md:justify-between">
             <div class="flex space-x-6 md:order-2">
-                <a href="#" class="text-white hover:text-gray-500">
+                <a href="https://www.facebook.com/qwordsdotcom" target="_blank" class="text-white hover:text-gray-500">
                     <span class="sr-only">Facebook</span>
                     <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path fill-rule="evenodd"
@@ -216,7 +216,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-white hover:text-gray-500">
+                <a href="https://www.instagram.com/qwordsdotcom/" target="_blank" class="text-white hover:text-gray-500">
                     <span class="sr-only">Instagram</span>
                     <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path fill-rule="evenodd"
@@ -225,7 +225,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-white hover:text-gray-500">
+                <a href="https://twitter.com/qwordsdotcom" target="_blank" class="text-white hover:text-gray-500">
                     <span class="sr-only">Twitter</span>
                     <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path
@@ -233,7 +233,7 @@
                     </svg>
                 </a>
 
-                <a href="#" class="text-white hover:text-gray-500">
+                <a href="https://www.youtube.com/user/qwordsvideo" target="_blank" class="text-white hover:text-gray-500">
                     <span class="sr-only">YouTube</span>
                     <svg class="h-6 w-6" fill="currentColor" viewBox="0 0 24 24" aria-hidden="true">
                         <path fill-rule="evenodd"
