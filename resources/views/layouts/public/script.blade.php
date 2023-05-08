@@ -1,0 +1,1 @@
+@vite(['resources/js/alpine.min.js','resources/js/app.js'])
